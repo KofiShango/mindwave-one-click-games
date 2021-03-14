@@ -1,0 +1,16 @@
+{
+  "name": "one-click-game",
+  "version": "0.0.1",
+  "description": "Play a one click game. With yo mind ;)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kofi Shango",
+  "license": "ISC",
+  "dependencies": {
+    "debounce": "^1.2.1",
+    "node-thinkgear-sockets": "^0.0.1",
+    "robotjs": "^0.6.0"
+  }
+}
